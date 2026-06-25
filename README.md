@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👨‍💻 About Me:<br><br>👋 Hello World! I'm **Sundar N**<br><br>📊 Passionate **Data Analyst | AI & Machine Learning Enthusiast | Problem Solver**<br><br>💡 I enjoy transforming raw data into meaningful insights and intelligent solutions<br><br>🐍 Skilled in **Python, SQL, Pandas, NumPy, Power BI, Excel, Scikit-learn, TensorFlow**<br><br>📈 Experienced in **Data Analysis, Machine Learning, Deep Learning, Data Visualization, and Predictive Modeling**<br><br>🧠 Currently building production-ready Data Science & Analytics projects to solve real-world business problems<br><br>📚 Integrated M.Tech student with a strong interest in AI, Analytics, and Business Intelligence<br><br>🚀 Continuously learning modern technologies including **Generative AI, LLMs, MLOps, Cloud, and Advanced SQL**<br><br>🎯 Open to **Data Analyst, Business Analyst, AI/ML Engineer, and Data Scientist** opportunities<br><br>🤝 Always excited to collaborate on innovative projects and contribute to impactful products!<br><br>---<br><br>💼 Portfolio: **Coming Soon**<br><br>🌐 LinkedIn: https://www.linkedin.com/in/sundar-n-277a79214/<br><br>💻 GitHub: https://github.com/Sundar-2503<br><br>📧 Email: your-srinjsundar<br>@gmail.com
 
-<!--
-**Sundar-2503/Sundar-2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sundar-n-277a79214/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@srinjsundar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinjsundar@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sundar-2503&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sundar-2503&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sundar-2503&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
